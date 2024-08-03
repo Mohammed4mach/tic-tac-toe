@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-The problem described here:   
+The problem is described here:   
 
 ![The problem is here](https://github.com/Mohammed4mach/tic-tac-toe/blob/main/Tic-tac-toe.jpg)
 
